@@ -6,7 +6,7 @@ class Program
         {
             Console.WriteLine("//-----------------Welcome to Basic Core Programs----------------//");
 
-            LeapYear.FindLeapYear();
+            PowerOfTwo.PowerOfTwoTable();
 
         }
     }

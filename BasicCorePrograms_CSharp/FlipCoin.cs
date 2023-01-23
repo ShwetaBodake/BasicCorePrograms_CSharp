@@ -26,7 +26,7 @@ namespace BasicCorePrograms_CSharp
             }
             Console.WriteLine("After fliping coin HeadPercentage is" + (headcount * 100) / number);
             Console.WriteLine("After fliping coin TailPercentage is" + (tailcount * 100) / number);
-
+          
         }
     }
 }
