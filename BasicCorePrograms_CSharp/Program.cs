@@ -1,3 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace BasicCorePrograms_CSharp
+{
+class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("//-----------------Welcome to Basic Core Programs----------------//");
+            FlipCoin.FlipCoinPercentage();
+
+        }
+    }
+}
 
