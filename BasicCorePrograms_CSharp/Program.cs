@@ -6,7 +6,7 @@ class Program
         {
             Console.WriteLine("//-----------------Welcome to Basic Core Programs----------------//");
 
-            PowerOfTwo.PowerOfTwoTable();
+            HarmonicNumber.HarmonicNumberDisplay();
 
         }
     }
